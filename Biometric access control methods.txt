@@ -1,0 +1,23 @@
+Biometric access control methods:
+
+1. Fingerprint recognition: This method uses a fingerprint scanner to capture and compare an individual's unique fingerprint pattern.
+
+2. Facial recognition: This method uses a camera to capture and analyze an individual's facial features, such as the distance between the eyes and the shape of the jawline.
+
+3. Iris recognition: This method uses a camera to capture and analyze an individual's unique iris pattern, which is the colored part of the eye.
+
+4. Voice recognition: This method uses a microphone to capture and analyze an individual's voice pattern, including their tone, pitch, and accent.
+
+5. Hand geometry: This method uses a scanner to capture and analyze an individual's hand size and shape, including the length and width of fingers and the shape of the palm.
+
+6. Signature recognition: This method uses a digitizing tablet to capture and analyze an individual's unique signature pattern.
+
+7. Gait recognition: This method uses motion sensors to capture and analyze an individual's unique walking pattern, including the length of their stride and the way they swing their arms.
+
+8. Vein recognition: This method uses a scanner to capture and analyze an individual's unique vein pattern, which is located beneath the skin.
+
+9. Ear recognition: This method uses a camera to capture and analyze an individual's unique ear shape and features.
+
+10. DNA recognition: This method uses a genetic analysis to identify an individual's unique DNA sequence, which can be used for identification purposes.
+
+Overall, each biometric control method has its own unique advantages and limitations, and the choice of method will depend on the specific needs and requirements of the smart home security system.
