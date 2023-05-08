@@ -1,0 +1,21 @@
+Traditional access control methods:
+
+1. Key-based access control: This method involves the use of a physical key to unlock a door or other access point.
+
+2. Password-based access control: This method involves the use of a password or PIN to gain access to a system or area.
+
+3. Smart card-based access control: This method uses a plastic card with an embedded chip or magnetic stripe that is used to grant access to a system or area.
+
+4. Proximity-based access control: This method involves the use of a small electronic device, such as a key fob or access card, that is waved or held close to a sensor to gain access.
+
+5. Keypad-based access control: This method involves the use of a keypad or touchpad to enter a numerical code to gain access.
+
+6. Intercom-based access control: This method involves the use of an intercom system to verify an individual's identity before granting access.
+
+Overall, each traditional access control method has its own advantages and limitations, and the choice of method will depend on the specific needs and requirements of the security system.
+
+
+
+
+
+
